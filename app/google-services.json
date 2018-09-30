@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "964780366641",
+    "firebase_url": "https://sell-and-buy-1529a.firebaseio.com",
+    "project_id": "sell-and-buy-1529a",
+    "storage_bucket": "sell-and-buy-1529a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964780366641:android:b51ddd9a5e474e4e",
+        "android_client_info": {
+          "package_name": "com.appincubator.talha_jubayer.sellandbuy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964780366641-94md4ejhhi1bkpua6hvlajs9f8l01gpk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appincubator.talha_jubayer.sellandbuy",
+            "certificate_hash": "ed98b53d2eeedff4824cd6f06a5ab2126e987836"
+          }
+        },
+        {
+          "client_id": "964780366641-su5cro9m99aodjojkm8ns4jsuogqu39h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCNStZfo-7ldnMIBj2kFbUSbu8BIpu4sU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964780366641-su5cro9m99aodjojkm8ns4jsuogqu39h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
